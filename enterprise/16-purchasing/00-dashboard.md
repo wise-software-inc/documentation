@@ -8,6 +8,7 @@ On the left you will find a listing of all purchase order history. If a purchase
 
 
 # Last Ordered
+
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/Purchasinge_LastOrdered.png)
 
 The last ordered snapshot will show the last 50 items that have been purchased.
@@ -19,6 +20,7 @@ Cost changes snapshot show the last 50 item costs that have changed. This applie
 
 # Invoices
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/Purchasing_Invoices.png)
+
 This will show the last 50 invoices created from purchase orders.
 
 
