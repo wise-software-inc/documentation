@@ -1,6 +1,6 @@
 # Dashboard
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_2.46219917.png)
+
 
 The purchasing area dashboard is divided into three main sections.
 
@@ -16,6 +16,19 @@ This will show the last item costs that have changed.
 
 # Invoices
 This will show the last 50 invoices created from purchase orders.
+
+
+
+# Purchase Orders
+
+Clicking on the plus icon on the upper right hand corner will create a new purchase order. 
+
+Clicking on an existing purchase order will open that order.
+
+# Receiving
+
+
+
 
 
 
