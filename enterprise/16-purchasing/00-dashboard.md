@@ -9,10 +9,10 @@ On the left you will find a listing of all purchase order history. If a purchase
 
 # Last Ordered
 
-This will show the last 50 items purchased.
+The last ordered snapshot will show the last 50 items that have been purchased.
 
 # Cost Changes
-This will show the last item costs that have changed.
+Cost changes snapshot show the last 50 item costs that have changed. This applies to manuall updates along with Heritage or PoolCorp auto cost updates.
 
 # Invoices
 This will show the last 50 invoices created from purchase orders.
