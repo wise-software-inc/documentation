@@ -1,6 +1,6 @@
 - displayName: Enterprise
   description: Documentation on the Windows desktop app.
-  displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
+  displayIcon: https://wiselibrary.blob.core.windows.net/wise/Enterprise%20Logo.png
   color: "#419bfa"
   autoExpand: false
   
