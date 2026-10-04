@@ -1,0 +1,15 @@
+﻿# Wise Repository Instructions
+
+Wise contains three separate Visual Studio solutions.
+
+All three solutions may contribute to the same customer-facing product.
+
+Customer help documentation is stored in /docs as Markdown.
+
+When working with documentation:
+
+- Preserve existing terminology.
+- Do not invent application functionality.
+- Treat source code as evidence of current behavior.
+- Treat existing documentation as the authority for customer-facing terminology.
+- When source code and documentation disagree, flag the discrepancy.

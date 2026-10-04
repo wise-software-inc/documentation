@@ -1,14 +1,8 @@
-# Wise Repository Instructions
+﻿# Wise Repository Instructions
 
-The source repositories in scope for customer help documentation are:
-
-- `TumbleWeed` — `C:\Users\jason\source\repos\TumbleWeed`
-- `PoolProgram` — `C:\Users\jason\source\repos\PoolProgram`
-- `Portal` — `C:\Users\jason\source\repos\Portal`
-
-Multiple repositories may contribute functionality to the same
-customer-facing product. Do not search unrelated repositories under the
-source-repositories folder.
+Wise application source code is maintained in three or four separate
+repositories under the user's source-repositories folder. Multiple
+repositories may contribute to the same customer-facing product.
 
 Search source repositories only when they are available in the active
 workspace or through the provided tools. Do not assume that an unavailable

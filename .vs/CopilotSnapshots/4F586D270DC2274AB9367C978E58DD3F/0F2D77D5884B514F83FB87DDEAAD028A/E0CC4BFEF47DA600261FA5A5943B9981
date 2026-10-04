@@ -1,0 +1,24 @@
+﻿---
+name: wise-help-maintenance
+description: Research, update, and validate Wise customer help articles using the available Wise source repositories.
+---
+
+# Wise Help Maintenance
+
+Use this skill when creating, reviewing, or updating customer-facing Wise help documentation.
+
+## Workflow
+
+1. Identify the feature, user task, and affected product area from the request.
+2. Search existing help articles before creating a new page. Prefer revising an existing article over duplicating content.
+3. Search the relevant Wise source repositories that are available in the active workspace or through the provided tools. Use a repository-to-product-area map when one is provided. Do not assume an unavailable repository was checked.
+4. Verify the user-visible behavior against source code. Follow behavior across relevant repositories when needed; source code is evidence of behavior, not a substitute for customer-facing instructions.
+5. Preserve terminology and conventions from existing help documentation. Describe the user's task and verified UI steps, not implementation details.
+6. If behavior is unclear, repositories conflict, or source and existing documentation disagree, do not guess. Keep the change limited to verified facts and report the uncertainty or discrepancy.
+7. Make the smallest useful documentation change in this documentation repository only. Treat source repositories as read-only unless explicitly asked otherwise.
+8. Validate Markdown formatting, links where possible, consistency with existing terminology, and that the instructions match the verified behavior.
+9. Summarize the documentation files changed and the source evidence supporting the change. Note any unresolved questions or unavailable repositories.
+
+## Screenshots
+
+When a screenshot would materially help and none can be verified, use `[SCREENSHOT NEEDED: description]`. Do not invent or imply that a screenshot exists.
